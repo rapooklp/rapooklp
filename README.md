@@ -6,7 +6,11 @@ I'm Kgomotso Rapoo from South Africa, and currently I am learning Complete Data 
 
 ## My Education Background
 - Postgraduate Diploma : Risk management from University of South Africa | Pretoria, South Africa
-- Bachelor of Commerce : Mathematical Sciences from Stellenbosch University | Stellenbosch, South Africa
+- Bachelor of Commerce : Mathematical Sciences from Stellenbosch University | Stellenbosch, South Africa 
+  
+
+## Projects
+- Loan Default using Python
 
 ## Certificates
 - Bachelor of Commerce (Mathematical Sciences) degree
@@ -15,15 +19,14 @@ I'm Kgomotso Rapoo from South Africa, and currently I am learning Complete Data 
 - Umalusi (National Senior Certificate)
   
 ## Skills:
-- Python
-- Excel
-- Photography
-- Financial Risk Modelling
-- Data Management, Project management & Statistical management
-- Understanging of Financial Statements.
+- Python.
 - Familiar with Microsoft suit packages and Good with Excel.
-- Highly motivated, Adaptive and Attention to detail
-- Team player, take ownership and innovative
+- Photography.
+- Financial Risk Modelling.
+- Data Management, Project management & Statistical management.
+- Understanging of Financial Statements.
+- Highly motivated, Adaptive and Attention to detail.
+- Team player, take ownership and innovative.
 - Analytical, problem-solving, monitoring and checking for accuracy.
 ## Purpose
 - 🔭 I’m currently working on Projects in Python, right now I am working with a loan default project  
