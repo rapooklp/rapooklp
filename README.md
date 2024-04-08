@@ -3,7 +3,7 @@
 
 **`Aspiring Data & Quantitative Analyst`**
 
-I am Aspiring Data & Quantitative Analyst from South Africa. I hold two degrees in the field of finace. My academic journey began with a Bachelor of Commerce in Mathematical Sciences, where I specialized in Financial Risk Management. Building on this foundation, I pursued a postgraduate diploma in risk management to further enhance my expertise. Currently, I am expanding my skill set by undertaking a short course in data science and machine learning through UDEMY. I am passionate about leveraging my knowledge to make informed decisions and drive innovation in the ever-evolving landscape of Finance."
+I am an Aspiring Data & Quantitative Analyst from South Africa. I hold two degrees in the field of finace. My academic journey began with a Bachelor of Commerce in Mathematical Sciences, where I specialized in Financial Risk Management. Building on this foundation, I pursued a postgraduate diploma in risk management to further enhance my expertise. Currently, I am expanding my skill set by undertaking a short course in data science and machine learning through UDEMY. I am passionate about leveraging my knowledge to make informed decisions and drive innovation in the ever-evolving landscape of Finance."
 
 ## My Education Background
 - Postgraduate Diploma : Risk management from University of South Africa | Pretoria, South Africa
