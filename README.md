@@ -1,15 +1,20 @@
 
 ![](https://media.licdn.com/dms/image/D4D22AQEpDviqo8ZNCw/feedshare-shrink_800/0/1712225268373?e=1715212800&v=beta&t=CuenbbuLaREj_Q2PksRi-jknDhw-dyILyjVqwV3OVZ4)
 
-**`Aspiring Data & Quantitative Analyst`**
+**`Professional Summary`**
 
 Focused and ambitious professional with a Bachelor of Commerce Degree in Mathematical Sciences, specialising in Financial Risk Management, alongside a recent Postgraduate Diploma in Risk Management and ongoing studies in Data Analytics at ALX Africa. Skilled in operational risk, market risk ,governance risk and compliance  , and credit risk management with a robust background in quantitative analysis and financial modelling. Proficient in SAS programming and equipped with a diverse academic foundation in financial accounting, actuarial science, mathematics, and computer science. Seeking to apply expertise in finance, insurance, banking, and data analysis within a challenging and progressive environment.
 Demonstrated leadership capabilities and a commitment to continual learning and professional growth."
 
 ## My Education Background
-- Data Analytics : From ALX Africa  
-- Postgraduate Diploma : Risk management from University of South Africa | Pretoria, South Africa
-- Bachelor of Commerce : Mathematical Sciences from Stellenbosch University | Stellenbosch, South Africa 
+- Data Analytics:                                                                                                10 June 2024 - Current 
+      ALX Africa – Johannesburg, South Africa  
+- Postgraduate Diploma: Risk Management:                                                                                 March 2024 
+     Market Risk Management, Operational Risk Management,Credit Risk Management, Risk Finang and governance risk and compliance Management. 
+     University of South Africa - Pretoria, South Africa 
+- Bachelor of Commerce: Mathematical Science:                                                                            March 2022 
+     Financial Risk Management 
+     Stellenbosch University - Stellenbosch, South Africa  
 
 ## Certificates
 - Bachelor of Commerce (Mathematical Sciences) degree
