@@ -6,6 +6,9 @@
 Focused and ambitious professional with a Bachelor of Commerce Degree in Mathematical Sciences, specialising in Financial Risk Management, alongside a recent Postgraduate Diploma in Risk Management and ongoing studies in Data Analytics at ALX Africa. Skilled in operational risk, market risk ,governance risk and compliance  , and credit risk management with a robust background in quantitative analysis and financial modelling. Proficient in SAS programming and equipped with a diverse academic foundation in financial accounting, actuarial science, mathematics, and computer science. Seeking to apply expertise in finance, insurance, banking, and data analysis within a challenging and progressive environment.
 Demonstrated leadership capabilities and a commitment to continual learning and professional growth."
 
+## Pitch Vedio
+- Comming Soon
+
 ## My Education Background
 - Data Analytics: ALX Africa | Johannesburg, South Africa  
 - Postgraduate Diploma: Risk Management | Market Risk Management, Operational Risk Management, Credit Risk Management, Risk Finang and governance risk and compliance Management from University of South Africa - Pretoria, South Africa 
