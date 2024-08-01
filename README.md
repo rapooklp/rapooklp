@@ -8,7 +8,7 @@ Demonstrated leadership capabilities and a commitment to continual learning and 
 
 ## My Education Background
 - Data Analytics:                                                                                                10 June 2024 - Current
-  ALX Africa – Johannesburg, South Africa  
+  --ALX Africa – Johannesburg, South Africa  
 - Postgraduate Diploma: Risk Management:                                                                                 March 2024
   Market Risk Management, Operational Risk Management,Credit Risk Management, Risk Finang and governance risk and compliance Management. 
      University of South Africa - Pretoria, South Africa 
