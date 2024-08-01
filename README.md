@@ -7,14 +7,14 @@ Focused and ambitious professional with a Bachelor of Commerce Degree in Mathema
 Demonstrated leadership capabilities and a commitment to continual learning and professional growth."
 
 ## My Education Background
-- Data Analytics:                                                                                                10 June 2024 - Current 
-      ALX Africa – Johannesburg, South Africa  
-- Postgraduate Diploma: Risk Management:                                                                                 March 2024 
-     Market Risk Management, Operational Risk Management,Credit Risk Management, Risk Finang and governance risk and compliance Management. 
+- Data Analytics:                                                                                                10 June 2024 - Current
+  ALX Africa – Johannesburg, South Africa  
+- Postgraduate Diploma: Risk Management:                                                                                 March 2024
+  Market Risk Management, Operational Risk Management,Credit Risk Management, Risk Finang and governance risk and compliance Management. 
      University of South Africa - Pretoria, South Africa 
-- Bachelor of Commerce: Mathematical Science:                                                                            March 2022 
-     Financial Risk Management 
-     Stellenbosch University - Stellenbosch, South Africa  
+- Bachelor of Commerce: Mathematical Science:                                                                            March 2022
+  Financial Risk Management
+  Stellenbosch University - Stellenbosch, South Africa  
 
 ## Certificates
 - Bachelor of Commerce (Mathematical Sciences) degree
