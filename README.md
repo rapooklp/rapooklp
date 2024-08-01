@@ -8,8 +8,8 @@ Demonstrated leadership capabilities and a commitment to continual learning and 
 
 ## My Education Background
 - Data Analytics: ALX Africa | Johannesburg, South Africa  
-- Postgraduate Diploma: Risk Management | Market Risk Management, Operational Risk Management,Credit Risk Management, Risk Finang and governance risk and compliance Management | University of South Africa - Pretoria, South Africa 
-- Bachelor of Commerce: Mathematical Science | Financial Risk Management | Stellenbosch University - Stellenbosch, South Africa  
+- Postgraduate Diploma: Risk Management | Market Risk Management, Operational Risk Management, Credit Risk Management, Risk Finang and governance risk and compliance Management from University of South Africa - Pretoria, South Africa 
+- Bachelor of Commerce: Mathematical Science | Financial Risk Management fromStellenbosch University - Stellenbosch, South Africa  
 
 ## Certificates
 - Bachelor of Commerce (Mathematical Sciences) degree
@@ -29,16 +29,14 @@ Demonstrated leadership capabilities and a commitment to continual learning and 
 - Collaboration
 - Analytical thinking 
 ## Technical Skills
-- Python.
+- Python | SQL.
+- Data visualization.
 - Familiar with Microsoft suit packages and Good with Excel.
 - Photography.
 - Financial Risk Modelling.
 - Data Management, Project management & Statistical management.
 - Understanging of Financial Statements.
-- Highly motivated, Adaptive and Attention to detail.
-- Team player, take ownership and innovative.
-- Analytical, problem-solving, monitoring and checking for accuracy.
-  
+
 ## Purpose
 - 🔭 I’m currently working on a project of unemployment reduction with a group of other four members at ALX Africa.  
 - 🌱 I’m currently learning Data Analytics to expend my skill set in dealing with big data.
