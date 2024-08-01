@@ -3,15 +3,13 @@
 
 **`Aspiring Data & Quantitative Analyst`**
 
-I am an Aspiring Data & Quantitative Analyst from South Africa. I hold two degrees in the field of finace. My academic journey began with a Bachelor of Commerce in Mathematical Sciences, where I specialized in Financial Risk Management. Building on this foundation, I pursued a postgraduate diploma in risk management to further enhance my expertise. Currently, I am expanding my skill set by undertaking a short course in data science and machine learning through UDEMY. I am passionate about leveraging my knowledge to make informed decisions and drive innovation in the ever-evolving landscape of Finance."
+Focused and ambitious professional with a Bachelor of Commerce Degree in Mathematical Sciences, specialising in Financial Risk Management, alongside a recent Postgraduate Diploma in Risk Management and ongoing studies in Data Analytics at ALX Africa. Skilled in operational risk, market risk ,governance risk and compliance  , and credit risk management with a robust background in quantitative analysis and financial modelling. Proficient in SAS programming and equipped with a diverse academic foundation in financial accounting, actuarial science, mathematics, and computer science. Seeking to apply expertise in finance, insurance, banking, and data analysis within a challenging and progressive environment.
+Demonstrated leadership capabilities and a commitment to continual learning and professional growth."
 
 ## My Education Background
+- Data Analytics : From ALX Africa  
 - Postgraduate Diploma : Risk management from University of South Africa | Pretoria, South Africa
 - Bachelor of Commerce : Mathematical Sciences from Stellenbosch University | Stellenbosch, South Africa 
-  
-
-## Projects
-- Loan Default using Python
 
 ## Certificates
 - Bachelor of Commerce (Mathematical Sciences) degree
@@ -19,7 +17,18 @@ I am an Aspiring Data & Quantitative Analyst from South Africa. I hold two degre
 - SAS Programming 2: Data Manipulation Techniques
 - Umalusi (National Senior Certificate)
   
-## Skills:
+## Soft Skills
+- Leadership Skills
+- Execution Skills
+- Creative thinking
+- Planning
+- Networking
+- Prioritization
+- Problem-solving
+- Organization
+- Collaboration
+- Analytical thinking 
+## Technical Skills
 - Python.
 - Familiar with Microsoft suit packages and Good with Excel.
 - Photography.
@@ -29,12 +38,13 @@ I am an Aspiring Data & Quantitative Analyst from South Africa. I hold two degre
 - Highly motivated, Adaptive and Attention to detail.
 - Team player, take ownership and innovative.
 - Analytical, problem-solving, monitoring and checking for accuracy.
+  
 ## Purpose
-- 🔭 I’m currently working on Projects in Python, right now I am working with a loan default project  
-- 🌱 I’m currently learning Complete Data Science and Machine Learning 
+- 🔭 I’m currently working on a project of unemployment reduction with a group of other four members at ALX Africa.  
+- 🌱 I’m currently learning Data Analytics to expend my skill set in dealing with big data.
 - 👯 I’m looking to collaborate on Banks, Insurance and Financial Companies 
 - 🤔 I’m looking for help with getting an internship, graduate program or new entry role. 
-- ⚡ Fun fact: I take pictures for fun and coding makes me happy 
+- ⚡ Fun fact: I’d be delighted to put my analytical and data management skills to good use and help you solve quantitative problems in any department of your choice 
 ## Favourite qoute 
 ### "Associate with people who are likely to improve you, welcome those whom you are capable of improving, the process is a mutual one because people learn as they teach."
 By a Stoic Called Seneca 
