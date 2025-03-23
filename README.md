@@ -57,7 +57,7 @@ By a Stoic Called Seneca
 - Learn
 - Adapt
 - Evolve
-### Then Repeat Again.
+### Then Repeat Again. Beacusw the process is an endless loop, till one cease to exsist.
 
 Aluta Continua!!! 
 ![1_vU7TJxicKlZpW-uRzVNFcA](https://github.com/rapooklp/Profile-2/assets/162428712/93411380-3852-4213-89cd-5e38aa79a99c)
