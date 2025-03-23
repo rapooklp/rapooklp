@@ -59,7 +59,7 @@ Developed an Excel-based tracking template to monitor variances between financia
 ## Technical Skills
 - Python | SQL.
 - Data visualization.
-- Familiar with Microsoft suit packages and Good with Excel.
+- Familiar with Microsoft suit packages and Advanced with Excel.
 - Photography.
 - Financial Risk Modelling.
 - Data Management, Project management & Statistical management.
