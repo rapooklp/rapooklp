@@ -3,8 +3,11 @@
 
 **`Professional Summary`**
 
-Focused and ambitious professional with a Bachelor of Commerce Degree in Mathematical Sciences, specialising in Financial Risk Management, alongside a recent Postgraduate Diploma in Risk Management and ongoing studies in Data Analytics at ALX Africa. Skilled in operational risk, market risk ,governance risk and compliance  , and credit risk management with a robust background in quantitative analysis and financial modelling. Proficient in SAS programming and equipped with a diverse academic foundation in financial accounting, actuarial science, mathematics, and computer science. Seeking to apply expertise in finance, insurance, banking, and data analysis within a challenging and progressive environment.
-Demonstrated leadership capabilities and a commitment to continual learning and professional growth."
+As a detail-oriented and proactive Risk Monitoring Specialist Intern, I leverage my academic background and practical experience in Risk Management and Financial Analysis. At McDonald's Head Office, I contribute to risk management processes by designing and maintaining documentation, conducting risk assessments, and providing actionable insights to stakeholders.
+
+My role involves analysing financial data, internal reports, and transactions to identify and mitigate potential risks. I focus on pinpointing risk root causes and ensuring timely corrective actions aligned with company standards. This experience has strengthened my ability to manage both proactive and reactive risk responses, essential for organizational stability.
+
+I hold a Postgraduate Diploma in Risk Management and a Bachelor of Commerce in Mathematical Sciences, with expertise in Operational Risk, Governance, Risk & Compliance (GRC), Risk Financing, Market Risk, and Credit Risk. This academic foundation has equipped me to tackle complex financial risks, preparing me for greater challenges, such as those at the South African Reserve Bank.
 
 ## Pitch Video
 - Comming Soon
