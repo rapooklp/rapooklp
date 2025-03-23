@@ -12,6 +12,28 @@ I hold a Postgraduate Diploma in Risk Management and a Bachelor of Commerce in M
 ## Pitch Video
 - Comming Soon
 
+## Work-Experience
+### Risk Monitoring Intern
+McDonalds Head office|85 Grayston Dr, Morningside, Sandton.	16 September 2024 – Current
+-Design, document, and maintain risk management processes.
+-Remotely investigate and identify potential causes of losses.
+-Analyze transactions, internal reports, and financial data for risk detection.
+-Conduct remote risk assessments according to established schedules, standards, and guidelines, and monitor the implementation of corrective actions.
+-Investigate and address risk-related issues raised by various departments within reasonable timeframes.
+-Communicate key insights, risks, and findings to relevant stakeholders.
+-Collate and submit monthly risk reports for assigned areas.
+-Gather and compile information on insurance claims from relevant stakeholders.
+-Ensure accurate capturing and updating of insurance claim data.
+
+## Projects
+### Unfulfilled Orders Tracking System
+Developed an Excel-based tracking template to monitor monthly unfulfilled orders across all McDonald's stores. The model not only captures data but also provides valuable insights into operational risks at both the store, organizational and owner operator levels. It includes dashboard visuals such as pie charts and line graphs for trend analysis and highlights the top 20 stores with the most unfulfilled orders, helping Operations Managers and Directors proactively address issues.
+
+### Third party, TLD and My Store Operational Report Variance Overview.
+
+Developed an Excel-based tracking template to monitor variances between financial operations reports net sales, Gaust Counts with a platform called TLD. The model not only captures data but also provides valuable insights into IT risks at both the store, organizational and owner operator levels. It includes dashboard visuals such as pie charts and line graphs for trend analysis and provide month to month variances between operations report data with TLD Data.
+
+
 ## My Education Background
 - Data Analytics: ALX Africa | Johannesburg, South Africa  
 - Postgraduate Diploma: Risk Management | Market Risk Management, Operational Risk Management, Credit Risk Management, Risk Finang and governance risk and compliance Management from University of South Africa - Pretoria, South Africa 
