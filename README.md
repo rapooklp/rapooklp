@@ -15,15 +15,15 @@ I hold a Postgraduate Diploma in Risk Management and a Bachelor of Commerce in M
 ## Work-Experience
 ### Risk Monitoring Intern
 McDonalds Head office|85 Grayston Dr, Morningside, Sandton.	16 September 2024 – Current
--Design, document, and maintain risk management processes.
--Remotely investigate and identify potential causes of losses.
--Analyze transactions, internal reports, and financial data for risk detection.
--Conduct remote risk assessments according to established schedules, standards, and guidelines, and monitor the implementation of corrective actions.
--Investigate and address risk-related issues raised by various departments within reasonable timeframes.
--Communicate key insights, risks, and findings to relevant stakeholders.
--Collate and submit monthly risk reports for assigned areas.
--Gather and compile information on insurance claims from relevant stakeholders.
--Ensure accurate capturing and updating of insurance claim data.
+- Design, document, and maintain risk management processes.
+- Remotely investigate and identify potential causes of losses.
+- Analyze transactions, internal reports, and financial data for risk detection.
+- Conduct remote risk assessments according to established schedules, standards, and guidelines, and monitor the implementation of corrective actions.
+- Investigate and address risk-related issues raised by various departments within reasonable timeframes.
+- Communicate key insights, risks, and findings to relevant stakeholders.
+- Collate and submit monthly risk reports for assigned areas.
+- Gather and compile information on insurance claims from relevant stakeholders.
+- Ensure accurate capturing and updating of insurance claim data.
 
 ## Projects
 ### Unfulfilled Orders Tracking System
